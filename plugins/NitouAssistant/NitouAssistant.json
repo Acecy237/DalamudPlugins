@@ -1,6 +1,6 @@
 {
-  "Name": "A车八服泥头车创过来了",
-  "InternalName": "Nitou Assistant",
+  "Name": "泥头A车小助手",
+  "InternalName": "NitouAssistant",
   "AssemblyVersion": "1.0.0.0",
   "Author": "cy237",
   "Punchline": "让找怪成为一件轻松的事，让开车成为爱上的事！",
@@ -13,6 +13,9 @@
   ],
   "DalamudApiLevel": 11,
   "AcceptsFeedback": true,
+  "LoadPriority": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
   "RepoUrl": "https://github.com/Acecy237/DalamudPlugins",
   "DownloadLinkInstall": "https://raw.githubusercontent.com/Acecy237/DalamudPlugins/main/plugins/NitouAssistant/latest.zip",
   "DownloadLinkUpdate": "https://raw.githubusercontent.com/Acecy237/DalamudPlugins/main/plugins/NitouAssistant/latest.zip"
