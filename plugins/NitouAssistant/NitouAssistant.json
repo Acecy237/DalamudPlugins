@@ -1,21 +1,19 @@
 {
-  "Author": "cy237",
-  "Name": "Nitou Assistant",
-  "InternalName": "NitouAssistant",
+  "Name": "A车八服泥头车创过来了",
+  "InternalName": "Nitou Assistant",
   "AssemblyVersion": "1.0.0.0",
-  "Description": "解放A车车头，群友都做人形凶兽",
-  "ApplicableVersion": "latest",
-  "RepoUrl": "https://github.com/Acecy237/NitouAssistant",
+  "Author": "cy237",
+  "Punchline": "让找怪成为一件轻松的事，让开车成为爱上的事！",
+  "Description": "解放A车车头，群友都做人形凶兽（暂时只支持5A）",
+  "ApplicableVersion": "any",
+  "LoadPriority": 0,
   "Tags": [
-    "navigation",
-    "teleport",
-    "vnavmesh"
+      "狩猎",
+      "自动"
   ],
   "DalamudApiLevel": 11,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
-  "LoadPriority": 0,
-  "Punchline": "你开八服连车",
-  "AcceptsFeedback": true
+  "AcceptsFeedback": true,
+  "RepoUrl": "https://github.com/Acecy237/DalamudPlugins",
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Acecy237/DalamudPlugins/main/plugins/NitouAssistant/latest.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/Acecy237/DalamudPlugins/main/plugins/NitouAssistant/latest.zip"
 }
