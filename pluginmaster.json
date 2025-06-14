@@ -1,0 +1,8 @@
+{
+  "Plugins": [
+    {
+      "InternalName": "NitouAssistant",
+      "ManifestUrl": "https://raw.githubusercontent.com/cy237/DalamudPlugins/main/plugins/NitouAssistant/NitouAssistant.json"
+    }
+  ]
+}
