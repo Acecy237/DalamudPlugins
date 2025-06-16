@@ -1,22 +1,20 @@
 {
+  "Author": "cy237",
   "Name": "泥头A车小助手",
   "InternalName": "NitouAssistant",
-  "AssemblyVersion": "1.0.0.0",
-  "Author": "cy237",
-  "Punchline": "让找怪成为一件轻松的事，让开车成为爱上的事！",
-  "Description": "解放A车车头，群友都做人形凶兽（暂时只支持5A）",
+  "AssemblyVersion": "1.0.0.1",
+  "Description": "自动找怪，依赖插件:Vnavmesh,Teleporter",
   "ApplicableVersion": "any",
-  "LoadPriority": 0,
+  "RepoUrl": "https://github.com/Acecy237/DalamudPlugins",
   "Tags": [
-      "狩猎",
-      "自动"
+    "狩猎",
+    "自动"
   ],
   "DalamudApiLevel": 11,
-  "AcceptsFeedback": true,
-  "LoadPriority": 0,
+  "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
-  "RepoUrl": "https://github.com/Acecy237/DalamudPlugins",
-  "DownloadLinkInstall": "https://raw.githubusercontent.com/Acecy237/DalamudPlugins/main/plugins/NitouAssistant/latest.zip",
-  "DownloadLinkUpdate": "https://raw.githubusercontent.com/Acecy237/DalamudPlugins/main/plugins/NitouAssistant/latest.zip"
+  "LoadPriority": 0,
+  "Punchline": "让找怪成为一件轻松的事，让开车成为爱上的事！",
+  "AcceptsFeedback": true
 }
