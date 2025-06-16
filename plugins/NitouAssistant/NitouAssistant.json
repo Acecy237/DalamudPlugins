@@ -2,7 +2,7 @@
   "Author": "cy237",
   "Name": "泥头A车小助手",
   "InternalName": "NitouAssistant",
-  "AssemblyVersion": "1.0.0.1",
+  "AssemblyVersion": "1.0.0.2",
   "Description": "自动找怪，依赖插件:Vnavmesh,Teleporter",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Acecy237/DalamudPlugins",
