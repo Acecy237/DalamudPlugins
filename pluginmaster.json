@@ -41,7 +41,7 @@
     "LoadPriority": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
-    "RepoUrl": "https://github.com/Acecy237/RankAHuntHelper",
+    "RepoUrl": "https://github.com/Acecy237/DalamudPlugins",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Acecy237/DalamudPlugins/main/plugins/RankAHuntHelper/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Acecy237/DalamudPlugins/main/plugins/RankAHuntHelper/latest.zip"
   }
