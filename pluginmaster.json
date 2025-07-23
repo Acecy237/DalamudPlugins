@@ -22,3 +22,27 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Acecy237/DalamudPlugins/main/plugins/NitouAssistant/latest.zip"
   }
 ]
+[
+  {
+    "Author": "cy237",
+    "Name": "RankAHuntHelper",
+    "InternalName": "RankAHuntHelper",
+    "AssemblyVersion": "1.0.0.0",
+    "Punchline": "你开8服5A",
+    "Description": "自动找A怪，依赖插件: LifeStream, Teleporter, Vnavmesh, HuntHelper",
+    "ApplicableVersion": "any",
+    "LoadPriority": 0,
+    "Tags": [
+      "狩猎",
+      "自动"
+    ],
+    "DalamudApiLevel": 12,
+    "AcceptsFeedback": true,
+    "LoadPriority": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "RepoUrl": "https://github.com/Acecy237/RankAHuntHelper",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Acecy237/DalamudPlugins/main/plugins/RankAHuntHelper/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Acecy237/DalamudPlugins/main/plugins/RankAHuntHelper/latest.zip"
+  }
+]
