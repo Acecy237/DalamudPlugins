@@ -20,9 +20,7 @@
     "RepoUrl": "https://github.com/Acecy237/DalamudPlugins",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Acecy237/DalamudPlugins/main/plugins/NitouAssistant/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Acecy237/DalamudPlugins/main/plugins/NitouAssistant/latest.zip"
-  }
-],
-[
+  },
   {
     "Author": "cy237",
     "Name": "RankAHuntHelper",
