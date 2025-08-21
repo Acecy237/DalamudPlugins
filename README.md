@@ -4,7 +4,7 @@ FFXIV的Dalamud插件
 
 Repo Link：
 
-`[paissaheavyindustries (Paissa Heavy Industries) · GitHub](https://github.com/paissaheavyindustries)`
+https://raw.githubusercontent.com/Acecy237/DalamudPlugins/main/pluginmaster.json
 
 1. RankAHuntHelper
 
