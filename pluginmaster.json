@@ -78,7 +78,6 @@
     "Punchline": "自动钓鱼7.2国服适配",
     "Description": "自动钓鱼7.2国服适配",
     "InternalName": "AutoHook",
-    "RepoUrl": "https://github.com/PunishXIV/AutoHook",
     "ApplicableVersion": "any",
     "Tags": [ "Gathering", "Fishing" ],
     "AcceptsFeedback": false,
