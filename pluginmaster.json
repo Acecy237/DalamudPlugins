@@ -71,5 +71,22 @@
     "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
     "Punchline": "AutoDuty，适配7.25CN客户端",
     "AcceptsFeedback": true
+  },
+  {
+    "Author": "Det",
+    "Name": "AutoHook",
+    "Punchline": "自动钓鱼7.2国服适配",
+    "Description": "自动钓鱼7.2国服适配",
+    "InternalName": "AutoHook",
+    "RepoUrl": "https://github.com/PunishXIV/AutoHook",
+    "ApplicableVersion": "any",
+    "Tags": [ "Gathering", "Fishing" ],
+    "AcceptsFeedback": false,
+    "Changelog": "Click the Changelog button to see whats new",
+    "DalamudApiLevel": 12,
+    "IconURL": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png",
+    "RepoUrl": "https://github.com/Acecy237/DalamudPlugins",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Acecy237/DalamudPlugins/main/plugins/AutoHook/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Acecy237/DalamudPlugins/main/plugins/AutoHook/latest.zip"
   }
 ]
