@@ -75,6 +75,7 @@
   {
     "Author": "Det",
     "Name": "AutoHook",
+    "AssemblyVersion": "4.3.4.0",
     "Punchline": "自动钓鱼7.2国服适配",
     "Description": "自动钓鱼7.2国服适配",
     "InternalName": "AutoHook",
