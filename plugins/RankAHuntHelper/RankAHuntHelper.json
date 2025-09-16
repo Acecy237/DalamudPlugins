@@ -2,7 +2,7 @@
   "Author": "Acecy237",
   "Name": "RankAHuntHelper",
   "InternalName": "RankAHuntHelper",
-  "AssemblyVersion": "1.0.0.5",
+  "AssemblyVersion": "1.0.0.0",
   "Description": "自动找A怪，依赖插件: LifeStream, Teleporter, Vnavmesh, HuntHelper",
   "ApplicableVersion": "any",
   "Tags": [
@@ -10,7 +10,7 @@
     "Auto",
     "Vnavmesh"
   ],
-  "DalamudApiLevel": 12,
+  "DalamudApiLevel": 13,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
