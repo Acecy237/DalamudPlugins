@@ -19,5 +19,22 @@
     "RepoUrl": "https://github.com/Acecy237/DalamudPlugins",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Acecy237/DalamudPlugins/main/plugins/RankAHuntHelper/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Acecy237/DalamudPlugins/main/plugins/RankAHuntHelper/latest.zip"
+  },
+  {
+    "Author": "Haselnussbomber,cyf5119(汉化),zhouhuichen741(汉化&本地化维护)",
+    "Name": "HaselTweaks",
+    "Punchline": "一系列生活质量调整（在线安装 Only）",
+    "Description": "继续调整",
+    "InternalName": "HaselTweaks",
+    "AssemblyVersion": "42.1.2.0",
+    "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/HaselTweaks.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/icon.png",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/HaselTweaks.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/HaselTweaks.zip"
   }
 ]
